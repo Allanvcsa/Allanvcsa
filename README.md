@@ -8,6 +8,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Allanvcsa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanvcsa&layout=compact&langs_count=7&theme=dark"/>
 </div>
+    
 <div align="center">
   <img align="flex" alt="allan-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="flex" alt="allan-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
